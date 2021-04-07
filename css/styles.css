@@ -426,10 +426,11 @@ tr.row8 td.col5 {
   background: #c44dff;
 }
 
-/*tr.row8 td.col6 {
+tr.row8 td.col6 {
   background: #cc66ff;
 }
-tr.row8 td.col7 {
+
+/*tr.row8 td.col7 {
   background: #d580ff;
 }
 tr.row8 td.col8 {
