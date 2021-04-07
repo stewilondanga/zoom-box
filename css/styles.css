@@ -430,10 +430,11 @@ tr.row8 td.col6 {
   background: #cc66ff;
 }
 
-/*tr.row8 td.col7 {
+tr.row8 td.col7 {
   background: #d580ff;
 }
-tr.row8 td.col8 {
+
+/*tr.row8 td.col8 {
   background: #dd99ff;
 }
 tr.row8 td.col9 {
