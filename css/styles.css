@@ -210,10 +210,11 @@ tr.row3 td.col1 {
   background: #0026e6;
 }
 
-/*tr.row3 td.col2 {
+tr.row3 td.col2 {
   background: #002bff;
 }
-tr.row3 td.col3 {
+
+/*tr.row3 td.col3 {
   background: #1a40ff;
 }
 tr.row3 td.col4 {
