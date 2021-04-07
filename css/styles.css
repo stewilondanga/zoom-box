@@ -166,10 +166,11 @@ tr.row1 td.col10 {
   background: #cce6ff;
 }
 
-/*tr.row2 td.col1 {
+tr.row2 td.col1 {
   background: #004de6;
 }
-tr.row2 td.col2 {
+
+/*tr.row2 td.col2 {
   background: #0055ff;
 }
 tr.row2 td.col3 {
