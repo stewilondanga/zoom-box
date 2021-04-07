@@ -526,7 +526,7 @@ tr.row10 td.col10 {
   background: #ffccff;
 }
 
-/*.containers h1 {
+.containers h1 {
   font-family: helvetica;
   font-weight: normal;
   text-align: center;
@@ -537,7 +537,7 @@ tr.row10 td.col10 {
   margin: 0 auto;
 }
 
-.cal {
+/*.cal {
   display: inline-block;
   background: #ffe;
   color: #555;
