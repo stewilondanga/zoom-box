@@ -262,10 +262,11 @@ tr.row4 td.col4 {
   background: #3333ff;
 }
 
-/*tr.row4 td.col5 {
+tr.row4 td.col5 {
   background: #4d4dff;
 }
-tr.row4 td.col6 {
+
+/*tr.row4 td.col6 {
   background: #6666ff;
 }
 tr.row4 td.col7 {
