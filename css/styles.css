@@ -121,12 +121,12 @@ td {
   border: 3px solid #fff;
 }
 
-/*td:hover {
+td:hover {
   transform: scale(1.4);
   box-shadow: 0 0 2px 2px #fff;
 }
 
-tr.row1 td.col1 {
+/*tr.row1 td.col1 {
   background: #0073e6;
 }
 tr.row1 td.col2 {
